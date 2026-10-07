@@ -1,0 +1,8 @@
+{
+  "name": "Remix Royal Fitness Gym",
+  "description": "Premium gym website for Royal Fitness Gym in Siliguri, West Bengal with membership plans, certified trainers, workout guides, calorie calculator, Indian diet planner, PT booking, and member dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
